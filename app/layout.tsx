@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./review.css";
 import "./risk-register.css";
+import "./risk-detail.css";
 import "./document.css";
 
 export const metadata: Metadata = { title: "RAMS Made Easy", description: "Create, review and issue UK construction RAMS" };
